@@ -1,5 +1,7 @@
 # buildspace Solana GIF Portal Project
 
+![SolanaDapp](public/solana_dapp.png)
+
 ### **Welcome 👋**
 To get started with this course, clone this repo and follow these commands:
 
