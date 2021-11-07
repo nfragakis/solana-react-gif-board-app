@@ -1,0 +1,12 @@
+[programs.devnet]
+gifboard = "6rkKcKq4NSYBcDRNLhGRwscuY3AJeXqYsU5Q3vCBHdiw"
+
+[registry]
+url = "https://anchor.projectserum.com"
+
+[provider]
+cluster = "devnet"
+wallet = "/Users/nickfragakis/.config/solana/id.json"
+
+[scripts]
+test = "node tests/test.js" 
